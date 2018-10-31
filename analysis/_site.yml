@@ -7,11 +7,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Materiales y Métodos"
+      href: 40.html
     - text: "License"
       href: license.html
   right:
     - icon: fa-github
-      href: https://github.com/jdblischak/workflowr
+      href: https://github.com/rosaespjo/ensamblaje2TT
 output:
   workflowr::wflow_html:
     toc: true
